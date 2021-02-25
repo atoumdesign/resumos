@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T03:24:00.202Z" agent="5.0 (Windows)" etag="Db7Gsq9yucPtr8uYrsAL" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T03:42:26.833Z" agent="5.0 (Windows)" etag="DGSCmsE1qqTWJYctSxUI" version="14.4.2" type="github">
   <diagram id="3IRaZ6SqpMJv9CcEFrRm" name="Page-1">
-    <mxGraphModel dx="1334" dy="817" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="762" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_sygEks50G0lcDYLFpFC-1" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FFFFFF&quot;&gt;Devops Essentials&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FFFFFF&quot;&gt;4523 / 7042 (Gaby Dias/4linux)&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;resizable=0;containerType=tree;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=solid;swimlaneFillColor=#024e82;strokeColor=#FFFFFF;align=left;fillColor=#024E82;spacingLeft=20;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1700" y="150" width="350" height="400" as="geometry">
-            <mxRectangle x="260" y="330" width="30" height="100" as="alternateBounds" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-1" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FFFFFF&quot;&gt;Devops Essentials&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot; color=&quot;#FFFFFF&quot;&gt;4523 / 7042 (Gaby Dias/4linux)&lt;br style=&quot;font-size: 15px&quot;&gt;&lt;/font&gt;&lt;/div&gt;" style="swimlane;html=1;startSize=40;horizontal=0;childLayout=treeLayout;horizontalTree=1;resizable=1;containerType=tree;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=solid;swimlaneFillColor=#024e82;strokeColor=#FFFFFF;align=left;fillColor=#024E82;spacingLeft=20;fontSize=15;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="1700" y="150" width="40" height="230" as="geometry">
+            <mxRectangle x="1700" y="150" width="350" height="400" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-2" value="&lt;div style=&quot;font-size: 16px;&quot;&gt;Devops&lt;/div&gt;&lt;div style=&quot;font-size: 16px;&quot;&gt;Essentials&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillColor=none;fontColor=#FFFFFF;strokeWidth=3;fontStyle=1;fontSize=16;rounded=1;" vertex="1" parent="_sygEks50G0lcDYLFpFC-1">
@@ -26,7 +26,7 @@
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-7" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-2" target="_sygEks50G0lcDYLFpFC-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="-295499.4967335716" as="sourcePoint" />
+            <mxPoint x="420" y="-301111.2329085716" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-8" value="3. Mercado devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;rounded=1;shadow=0;glass=0;treeFolding=1;" vertex="1" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
@@ -34,7 +34,7 @@
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-9" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-2" target="_sygEks50G0lcDYLFpFC-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="-295419.4967335716" as="sourcePoint" />
+            <mxPoint x="420" y="-301031.2329085716" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-10" value="4. ferramentas devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;rounded=1;shadow=0;glass=0;treeFolding=1;" vertex="1" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
@@ -42,7 +42,7 @@
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-11" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-2" target="_sygEks50G0lcDYLFpFC-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="-295299.4967335716" as="sourcePoint" />
+            <mxPoint x="420" y="-300911.2329085716" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-12" value="5. laboratório devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;rounded=1;shadow=0;glass=0;treeFolding=1;" vertex="1" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
@@ -50,50 +50,50 @@
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-13" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-3" target="_sygEks50G0lcDYLFpFC-15">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="-201085.28227857145" as="sourcePoint" />
+            <mxPoint x="420" y="-203535.78227857148" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-14" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=15;fontColor=#FFFFFF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-15" target="_sygEks50G0lcDYLFpFC-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-15" value="o que é DevOps?" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="375" width="120" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-15" value="o que é DevOps?" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="380" y="20" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-16" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-3" target="_sygEks50G0lcDYLFpFC-18">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="-201245.31085000004" as="sourcePoint" />
+            <mxPoint x="590" y="-203695.81085000007" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=21;fontColor=#024E82;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-18" target="_sygEks50G0lcDYLFpFC-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-18" value="história do devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;spacingLeft=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="1070" width="130" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-18" value="história do devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;spacingLeft=0;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="380" y="100" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-19" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-5" target="_sygEks50G0lcDYLFpFC-20">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="-227575.66662500004" as="sourcePoint" />
+            <mxPoint x="420" y="-227976.56342500003" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-20" value="conhecer as terminologias por trás do devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="21.19980000000004" width="160" height="40" as="geometry" />
+          <mxGeometry x="380" y="84" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-21" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-5" target="_sygEks50G0lcDYLFpFC-23">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="-227594.76662500005" as="sourcePoint" />
+            <mxPoint x="590" y="-227995.66342500004" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-22" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.489;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=15;fontColor=#FFFFFF;entryPerimeter=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-23" target="_sygEks50G0lcDYLFpFC-191">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-23" value="entender uma pipeline de desenvolvimento ágil" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;collapsible=0;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="101.19980000000004" width="160" height="40" as="geometry">
+          <mxGeometry x="380" y="164" width="160" height="40" as="geometry">
             <mxRectangle x="380" y="4847.590000000001" width="270" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-24" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-5" target="_sygEks50G0lcDYLFpFC-28">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="-227215.63805357146" as="sourcePoint" />
+            <mxPoint x="590" y="-227616.53485357144" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-25" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=11;fontColor=#006EAF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-28" target="_sygEks50G0lcDYLFpFC-220">
@@ -105,72 +105,72 @@
         <mxCell id="_sygEks50G0lcDYLFpFC-27" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=11;fontColor=#006EAF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-28" target="_sygEks50G0lcDYLFpFC-252">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-28" value="explorar uma pipeline devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="809.2018" width="160" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-28" value="explorar uma pipeline devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="380" y="244" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-29" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-8" target="_sygEks50G0lcDYLFpFC-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="-174491.71390857143" as="sourcePoint" />
+            <mxPoint x="420" y="-175968.4554085714" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-30" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-31" target="_sygEks50G0lcDYLFpFC-271">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-31" value="inteirar-se sobre o mercado devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="602.0010250000012" width="120" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-31" value="inteirar-se sobre o mercado devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="380" y="172" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-32" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-8" target="_sygEks50G0lcDYLFpFC-33">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="-174351.74248" as="sourcePoint" />
+            <mxPoint x="590" y="-175828.48397999996" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-33" value="explorar as principais certificações" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="1333.5915250000012" width="120" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-33" value="explorar as principais certificações" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="380" y="252" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-34" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-10" target="_sygEks50G0lcDYLFpFC-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="-180406.84180357138" as="sourcePoint" />
+            <mxPoint x="420" y="-180903.96230357137" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-35" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-36" target="_sygEks50G0lcDYLFpFC-314">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-36" value="entender a relação do devops com o open source" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" collapsed="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="537.4560000000004" width="140" height="40" as="geometry" />
+          <mxGeometry x="380" y="252" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-37" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-10" target="_sygEks50G0lcDYLFpFC-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="-180145.97037499995" as="sourcePoint" />
+            <mxPoint x="590" y="-180643.09087499994" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-38" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=11;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-39" target="_sygEks50G0lcDYLFpFC-345">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-39" value="conhecer quais são as principais&amp;nbsp; ferramentas devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="766.8200000000004" width="170" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-39" value="conhecer quais são as principais&amp;nbsp; ferramentas devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="380" y="332" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-40" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-12" target="_sygEks50G0lcDYLFpFC-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="-150225.97433571427" as="sourcePoint" />
+            <mxPoint x="420" y="-150588.4517107143" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-41" value="conhecendo algumas plataformas" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="292.52625" width="130" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-41" value="conhecendo algumas plataformas" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="380" y="332" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-42" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-12" target="_sygEks50G0lcDYLFpFC-43">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="-149127.46005" as="sourcePoint" />
+            <mxPoint x="590" y="-149489.937425" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-43" value="criar uma pipeline devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="1179.0299999999997" width="140" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-43" value="criar uma pipeline devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="380" y="412" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-44" value="&lt;h1 style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;segundo à AWS&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;É a combinação de filosofias culturais, práticas e ferramentas que aumentam a capacidade de uma empresa para distribuir aplicativos&amp;nbsp; e serviços em alta velocidade: otimizando e aperfeiçoando produtos em ritmo mais rápido em comparação a empresas que usam processos tradicionais de desenvolvimento de software e gerenciamento de infraestrutura.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;dashed=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=15;fontColor=#FFFFFF;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
           <mxGeometry x="550" y="20" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-45" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=15;fontColor=#FFFFFF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-15" target="_sygEks50G0lcDYLFpFC-46">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="-196558.31085000004" as="sourcePoint" />
+            <mxPoint x="760" y="-196718.31085000004" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-46" value="&lt;h1 style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;segundo à IBM&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Consiste no alinhamento de times de desenvolvimento e operações, englobando processos, ferramentas e responsabilidades, visando acelerar as entregas em produção com um elevado grau de qualidade.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;dashed=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=15;fontColor=#FFFFFF;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
@@ -178,7 +178,7 @@
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-47" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=15;fontColor=#FFFFFF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-15" target="_sygEks50G0lcDYLFpFC-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="-194792.31085000004" as="sourcePoint" />
+            <mxPoint x="760" y="-194952.31085000004" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-48" value="&lt;h1 style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;segundo à Gartnet&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Representa uma mudança na cultura de TI, com foco na entrega rápida de serviços através da adoção de&lt;font style=&quot;font-size: 15px&quot;&gt; práticas ágeis e enxutas, no contexto de uma abordagem orientada para o sistema. DevOps enfatiza as pessoas e a cultura, busca melhorar a colaboração entre as operações e as equipes de desenvolvimento.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;dashed=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=15;fontColor=#FFFFFF;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
@@ -186,14 +186,14 @@
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-49" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=15;fontColor=#FFFFFF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-15" target="_sygEks50G0lcDYLFpFC-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="-192773.31085000004" as="sourcePoint" />
+            <mxPoint x="760" y="-192933.31085000004" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-50" value="&lt;h1 style=&quot;font-size: 24px&quot;&gt;de forma literal&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;O DevOps originou-se a partir da junção de duas palavras: Desenvolvimento e Operações&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;Trata-se de um conjunto de &lt;b&gt;melhores práticas&lt;/b&gt; que enfatizam a &lt;b&gt;colaboração &lt;/b&gt;e a &lt;b&gt;comunicação &lt;/b&gt;de profissionais de TI, desenvolvedores, operadores e pessoal de suporte, no &lt;b&gt;ciclo de vida de aplicativos e serviços.&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;dashed=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=15;fontColor=#FFFFFF;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
           <mxGeometry x="550" y="590" width="350" height="180" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-51" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;strokeColor=#FFFFFF;strokeWidth=1;fillColor=none;gradientColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=21;fontColor=#024E82;align=right;container=1;collapsible=0;shape=partialRectangle;top=0;left=1;bottom=0;right=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="560" y="810" width="610" height="560" as="geometry" />
+          <mxGeometry x="560" y="20" width="610" height="560" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-52" value="" style="group" vertex="1" connectable="0" parent="_sygEks50G0lcDYLFpFC-51">
           <mxGeometry x="15" y="10" width="580" height="510" as="geometry" />
@@ -245,367 +245,367 @@
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-68" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-3" target="_sygEks50G0lcDYLFpFC-69">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="-185110.56085000004" as="sourcePoint" />
+            <mxPoint x="590" y="-187561.06085000007" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-69" value="pilares do DevOps" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;verticalAlign=middle;treeFolding=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="1690" width="110" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-69" value="pilares do DevOps" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;verticalAlign=middle;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="380" y="180" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-70" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-69" target="_sygEks50G0lcDYLFpFC-71">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="-184413.06085000004" as="sourcePoint" />
+            <mxPoint x="780" y="-185559.11085000006" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-71" value="Cultura (Culture)" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=bottom;strokeWidth=2;fontStyle=1;strokeColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="540" y="1450" width="110" height="40" as="geometry" />
+          <mxGeometry x="540" y="180" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-72" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-69" target="_sygEks50G0lcDYLFpFC-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="-184413.06085000004" as="sourcePoint" />
+            <mxPoint x="940" y="-185559.11085000006" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-73" value="Automação (Automation)" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=bottom;strokeWidth=2;fontStyle=1;strokeColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="540" y="1610" width="150" height="40" as="geometry" />
+          <mxGeometry x="540" y="340" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-74" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-69" target="_sygEks50G0lcDYLFpFC-75">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="-182696.56085000004" as="sourcePoint" />
+            <mxPoint x="940" y="-183842.61085000006" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-75" value="Medição (Measurement)" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=bottom;strokeWidth=2;fontStyle=1;strokeColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="540" y="1770" width="150" height="40" as="geometry" />
+          <mxGeometry x="540" y="500" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-76" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-69" target="_sygEks50G0lcDYLFpFC-77">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="-180949.43585000004" as="sourcePoint" />
+            <mxPoint x="940" y="-182095.48585000006" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-77" value="Compartilhamento (Sharing)" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=bottom;strokeWidth=2;fontStyle=1;strokeColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="540" y="1930" width="173.5" height="40" as="geometry" />
+          <mxGeometry x="540" y="660" width="173.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-78" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-71" target="_sygEks50G0lcDYLFpFC-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="-179172.06085000004" as="sourcePoint" />
+            <mxPoint x="940" y="-180318.11085000006" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-79" value="colaboração" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="700" y="1410" width="78" height="40" as="geometry" />
+          <mxGeometry x="700" y="140" width="78" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-80" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-71" target="_sygEks50G0lcDYLFpFC-81">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="-179292.93585000004" as="sourcePoint" />
+            <mxPoint x="1050" y="-180438.98585000006" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-81" value="desenvolvimento e TI/OPS trabalhando juntos" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="700" y="1490" width="148" height="40" as="geometry" />
+          <mxGeometry x="700" y="220" width="148" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-82" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-73" target="_sygEks50G0lcDYLFpFC-83">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="-175504.99835000004" as="sourcePoint" />
+            <mxPoint x="940" y="-176651.04835000006" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-83" value="ferramentas de automação" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="740" y="1570" width="150" height="40" as="geometry" />
+          <mxGeometry x="740" y="300" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-84" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-73" target="_sygEks50G0lcDYLFpFC-85">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1070" y="-175532.18585000004" as="sourcePoint" />
+            <mxPoint x="1070" y="-176678.23585000006" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-85" value="pipelines automáticas" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="740" y="1650" width="120" height="40" as="geometry" />
+          <mxGeometry x="740" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-86" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-75" target="_sygEks50G0lcDYLFpFC-87">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="-173660.16501666667" as="sourcePoint" />
+            <mxPoint x="940" y="-174806.21501666668" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-87" value="métricas de todo o ciclo" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="740" y="1730" width="130" height="40" as="geometry" />
+          <mxGeometry x="740" y="460" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-88" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-75" target="_sygEks50G0lcDYLFpFC-89">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="-173560.26501666667" as="sourcePoint" />
+            <mxPoint x="1080" y="-174706.3150166667" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-89" value="monitoração / logs" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="740" y="1810" width="110" height="40" as="geometry" />
+          <mxGeometry x="740" y="540" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-90" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-77" target="_sygEks50G0lcDYLFpFC-91">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="-171778.85251666667" as="sourcePoint" />
+            <mxPoint x="940" y="-172924.90251666668" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-91" value="feedback" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="763.5" y="1890" width="53" height="40" as="geometry" />
+          <mxGeometry x="763.5" y="620" width="53" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-92" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-77" target="_sygEks50G0lcDYLFpFC-93">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1086.5" y="-171558.46376666665" as="sourcePoint" />
+            <mxPoint x="1086.5" y="-172704.51376666667" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-93" value="compartilhar responsabilidades" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="763.5" y="1970" width="177" height="40" as="geometry" />
+          <mxGeometry x="763.5" y="700" width="177" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-94" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-3" target="_sygEks50G0lcDYLFpFC-96">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="-168211.49835" as="sourcePoint" />
+            <mxPoint x="780" y="-170661.99835000004" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-95" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=21;fontColor=#024E82;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-96" target="_sygEks50G0lcDYLFpFC-121">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-96" value="características do DevOps" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;verticalAlign=middle;treeFolding=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="2375" width="160" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-96" value="características do DevOps" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;verticalAlign=middle;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="380" y="260" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-97" value="desenvolvimento" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=bottom;strokeWidth=2;fontStyle=1;strokeColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="590" y="2300" width="110" height="40" as="geometry" />
+          <mxGeometry x="590" y="270" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-98" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-96" target="_sygEks50G0lcDYLFpFC-97">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="-162896.32335" as="sourcePoint" />
-            <mxPoint x="736.5" y="-162655.82335" as="targetPoint" />
+            <mxPoint x="680" y="-164548.87335" as="sourcePoint" />
+            <mxPoint x="736.5" y="-164308.37335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-99" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-96" target="_sygEks50G0lcDYLFpFC-100">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="-157866.32585" as="sourcePoint" />
-            <mxPoint x="736.5" y="-162655.82335" as="targetPoint" />
+            <mxPoint x="990" y="-159518.87585" as="sourcePoint" />
+            <mxPoint x="736.5" y="-164308.37335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-100" value="operação" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=bottom;strokeWidth=2;fontStyle=1;strokeColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="590" y="2700" width="70" height="40" as="geometry" />
+          <mxGeometry x="590" y="670" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-101" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-97" target="_sygEks50G0lcDYLFpFC-102">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="-155670.07585" as="sourcePoint" />
-            <mxPoint x="736.5" y="-162655.82335" as="targetPoint" />
+            <mxPoint x="990" y="-157322.62585" as="sourcePoint" />
+            <mxPoint x="736.5" y="-164308.37335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-102" value="desenvolvimento ágil" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="750" y="2140" width="110" height="40" as="geometry" />
+          <mxGeometry x="750" y="110" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-103" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-97" target="_sygEks50G0lcDYLFpFC-104">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1130" y="-155710.07585" as="sourcePoint" />
-            <mxPoint x="736.5" y="-162655.82335" as="targetPoint" />
+            <mxPoint x="1130" y="-157362.62585" as="sourcePoint" />
+            <mxPoint x="736.5" y="-164308.37335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-104" value="ciclos de entregas rápidas de versões do software" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="750" y="2220" width="270" height="40" as="geometry" />
+          <mxGeometry x="750" y="190" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-105" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-97" target="_sygEks50G0lcDYLFpFC-106">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1130" y="-153482.25084999998" as="sourcePoint" />
-            <mxPoint x="736.5" y="-162655.82335" as="targetPoint" />
+            <mxPoint x="1130" y="-155134.80085" as="sourcePoint" />
+            <mxPoint x="736.5" y="-164308.37335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-106" value="diminuição na complexidade do software" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="750" y="2300" width="220" height="40" as="geometry" />
+          <mxGeometry x="750" y="270" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-107" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-97" target="_sygEks50G0lcDYLFpFC-108">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1130" y="-151224.57584999996" as="sourcePoint" />
-            <mxPoint x="736.5" y="-162655.82335" as="targetPoint" />
+            <mxPoint x="1130" y="-152877.12584999998" as="sourcePoint" />
+            <mxPoint x="736.5" y="-164308.37335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-108" value="integração contínua (CI)" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="750" y="2380" width="140" height="40" as="geometry" />
+          <mxGeometry x="750" y="350" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-109" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-97" target="_sygEks50G0lcDYLFpFC-110">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1130" y="-148932.32584999996" as="sourcePoint" />
-            <mxPoint x="736.5" y="-162655.82335" as="targetPoint" />
+            <mxPoint x="1130" y="-150584.87584999998" as="sourcePoint" />
+            <mxPoint x="736.5" y="-164308.37335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-110" value="entrega contínua (CD)" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="750" y="2460" width="130" height="40" as="geometry" />
+          <mxGeometry x="750" y="430" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-111" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-100" target="_sygEks50G0lcDYLFpFC-112">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990" y="-146551.07584999996" as="sourcePoint" />
-            <mxPoint x="736.5" y="-162655.82335" as="targetPoint" />
+            <mxPoint x="990" y="-148203.62584999998" as="sourcePoint" />
+            <mxPoint x="736.5" y="-164308.37335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-112" value="gerência de configuração" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="2540" width="140" height="40" as="geometry" />
+          <mxGeometry x="710" y="510" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-113" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-100" target="_sygEks50G0lcDYLFpFC-114">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="-144048.82584999996" as="sourcePoint" />
-            <mxPoint x="736.5" y="-162655.82335" as="targetPoint" />
+            <mxPoint x="1100" y="-145701.37584999998" as="sourcePoint" />
+            <mxPoint x="736.5" y="-164308.37335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-114" value="centralização dos logs" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="2620" width="120" height="40" as="geometry" />
+          <mxGeometry x="710" y="590" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-115" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-100" target="_sygEks50G0lcDYLFpFC-116">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="-141642.57584999996" as="sourcePoint" />
-            <mxPoint x="736.5" y="-162655.82335" as="targetPoint" />
+            <mxPoint x="1100" y="-143295.12584999998" as="sourcePoint" />
+            <mxPoint x="736.5" y="-164308.37335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-116" value="monitoração e coleta de métricas (CM)" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="2700" width="220" height="40" as="geometry" />
+          <mxGeometry x="710" y="670" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-117" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-100" target="_sygEks50G0lcDYLFpFC-118">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="-139221.32584999994" as="sourcePoint" />
-            <mxPoint x="736.5" y="-162655.82335" as="targetPoint" />
+            <mxPoint x="1100" y="-140873.87584999995" as="sourcePoint" />
+            <mxPoint x="736.5" y="-164308.37335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-118" value="infraestrutura como código" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="2780" width="150" height="40" as="geometry" />
+          <mxGeometry x="710" y="750" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-119" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-100" target="_sygEks50G0lcDYLFpFC-120">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1100" y="-136785.07584999994" as="sourcePoint" />
-            <mxPoint x="736.5" y="-162655.82335" as="targetPoint" />
+            <mxPoint x="1100" y="-138437.62584999995" as="sourcePoint" />
+            <mxPoint x="736.5" y="-164308.37335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-120" value="ambiente automatizado" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="2860" width="130" height="40" as="geometry" />
+          <mxGeometry x="710" y="830" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-121" value="&lt;div style=&quot;font-size: 12px&quot; align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#FFFFFF&quot;&gt;reuniões de Dev e Ops realizadas de forma unificada&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;strokeColor=#FFFFFF;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=21;fontColor=#024E82;align=center;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="590" y="2050" width="140" height="50" as="geometry" />
+          <mxGeometry x="590" y="20" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-122" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-3" target="_sygEks50G0lcDYLFpFC-123">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="-131563.42143823524" as="sourcePoint" />
+            <mxPoint x="780" y="-134013.92143823527" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-123" value="benefícios do Devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;verticalAlign=middle;treeFolding=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="3060" width="120" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-123" value="benefícios do Devops" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;verticalAlign=middle;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="380" y="340" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-124" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-123" target="_sygEks50G0lcDYLFpFC-125">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="-128808.42704047615" as="sourcePoint" />
+            <mxPoint x="780" y="-130885.47704047615" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-125" value="melhor comunicação e maior colaboração entre as áreas de desenvolvimento e infraestrutura" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;treeFolding=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="2940" width="270" height="40" as="geometry" />
+          <mxGeometry x="550" y="340" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-126" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-123" target="_sygEks50G0lcDYLFpFC-127">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="-122589.20084999996" as="sourcePoint" />
+            <mxPoint x="950" y="-124666.25084999997" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-127" value="melhor qualidade e maior frequência de entregas" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;treeFolding=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="3020" width="260" height="40" as="geometry" />
+          <mxGeometry x="550" y="420" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-128" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-123" target="_sygEks50G0lcDYLFpFC-129">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="-122586.20084999996" as="sourcePoint" />
+            <mxPoint x="950" y="-124663.25084999997" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-129" value="redução de falhas na implementação de mudanças resultando em maior estabilidade e melhor desempenho" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;treeFolding=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="3100" width="300" height="40" as="geometry" />
+          <mxGeometry x="550" y="500" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-130" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-123" target="_sygEks50G0lcDYLFpFC-131">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="950" y="-119690.20084999996" as="sourcePoint" />
+            <mxPoint x="950" y="-121767.25084999997" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-131" value="aumento do valor do negócio" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;treeFolding=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="3180" width="160" height="40" as="geometry" />
+          <mxGeometry x="550" y="580" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-132" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-3" target="_sygEks50G0lcDYLFpFC-133">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="779.9999999999998" y="-117453.70085" as="sourcePoint" />
+            <mxPoint x="779.9999999999998" y="-119904.20085" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-133" value="metodologias ágeis" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;verticalAlign=middle;treeFolding=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="380" y="3540" width="120" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-133" value="metodologias ágeis" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;verticalAlign=middle;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="380" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-134" value="&lt;b&gt;Lean&lt;/b&gt;" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=bottom;strokeWidth=2;fontStyle=1;treeFolding=0;strokeColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="3340" width="40" height="40" as="geometry" />
+          <mxGeometry x="550" y="377.29999999999995" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-135" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-133" target="_sygEks50G0lcDYLFpFC-134">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="689.9999999999998" y="-114184.91636724136" as="sourcePoint" />
-            <mxPoint x="739.9999999999998" y="-114064.95084999996" as="targetPoint" />
+            <mxPoint x="689.9999999999998" y="-116515.85636724136" as="sourcePoint" />
+            <mxPoint x="739.9999999999998" y="-116395.89084999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-136" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-133" target="_sygEks50G0lcDYLFpFC-137">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="949.9999999999998" y="-107509.45085" as="sourcePoint" />
-            <mxPoint x="739.9999999999998" y="-114064.95084999996" as="targetPoint" />
+            <mxPoint x="949.9999999999998" y="-109840.39085" as="sourcePoint" />
+            <mxPoint x="739.9999999999998" y="-116395.89084999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-137" value="&lt;b&gt;Scrum&lt;/b&gt;" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=bottom;strokeWidth=2;fontStyle=1;treeFolding=0;strokeColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="3580" width="40" height="40" as="geometry" />
+          <mxGeometry x="550" y="626.3" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-138" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-133" target="_sygEks50G0lcDYLFpFC-139">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="949.9999999999998" y="-104405.70085" as="sourcePoint" />
-            <mxPoint x="739.9999999999998" y="-114064.95084999996" as="targetPoint" />
+            <mxPoint x="949.9999999999998" y="-106736.64085" as="sourcePoint" />
+            <mxPoint x="739.9999999999998" y="-116395.89084999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-139" value="&lt;b&gt;Kanban&lt;/b&gt;" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=bottom;strokeWidth=2;fontStyle=1;treeFolding=0;strokeColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="3740" width="40" height="40" as="geometry" />
+          <mxGeometry x="552" y="804.3" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-140" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-134" target="_sygEks50G0lcDYLFpFC-141">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="949.9999999999998" y="-101271.95085" as="sourcePoint" />
-            <mxPoint x="739.9999999999998" y="-114064.95084999996" as="targetPoint" />
+            <mxPoint x="949.9999999999998" y="-103602.89085" as="sourcePoint" />
+            <mxPoint x="739.9999999999998" y="-116395.89084999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-141" value="Lean é a base de Agile" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;treeFolding=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="640" y="3260" width="160" height="40" as="geometry" />
+          <mxGeometry x="640" y="297.29999999999995" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-142" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-134" target="_sygEks50G0lcDYLFpFC-143">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1039.9999999999998" y="-101351.95085" as="sourcePoint" />
-            <mxPoint x="739.9999999999998" y="-114064.95084999996" as="targetPoint" />
+            <mxPoint x="1039.9999999999998" y="-103682.89085" as="sourcePoint" />
+            <mxPoint x="739.9999999999998" y="-116395.89084999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-143" value="melhorar a velocidade e a qualidade da entrega de valor" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;treeFolding=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="640" y="3340" width="160" height="40" as="geometry" />
+          <mxGeometry x="640" y="377.29999999999995" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-144" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-134" target="_sygEks50G0lcDYLFpFC-145">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1039.9999999999998" y="-98188.20085" as="sourcePoint" />
-            <mxPoint x="739.9999999999998" y="-114064.95084999996" as="targetPoint" />
+            <mxPoint x="1039.9999999999998" y="-100519.14085" as="sourcePoint" />
+            <mxPoint x="739.9999999999998" y="-116395.89084999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-145" value="atividades desperdiçadoras devem ser eliminadas" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;treeFolding=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="640" y="3420" width="160" height="40" as="geometry" />
+          <mxGeometry x="640" y="457.29999999999995" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-146" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-137" target="_sygEks50G0lcDYLFpFC-147">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="949.9999999999998" y="-94870.45085" as="sourcePoint" />
-            <mxPoint x="739.9999999999998" y="-114064.95084999996" as="targetPoint" />
+            <mxPoint x="949.9999999999998" y="-97201.39085" as="sourcePoint" />
+            <mxPoint x="739.9999999999998" y="-116395.89084999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-147" value="estratégia incremental de gestão de projetos" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;treeFolding=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="640" y="3500" width="150" height="40" as="geometry" />
+          <mxGeometry x="640" y="537.3" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-148" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-137" target="_sygEks50G0lcDYLFpFC-149">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1039.9999999999998" y="-94828.45085" as="sourcePoint" />
-            <mxPoint x="739.9999999999998" y="-114064.95084999996" as="targetPoint" />
+            <mxPoint x="1039.9999999999998" y="-97159.39085" as="sourcePoint" />
+            <mxPoint x="739.9999999999998" y="-116395.89084999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-149" value="projetos são fragmentados em ciclos, chamados Sprints" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;treeFolding=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="640" y="3580" width="170" height="40" as="geometry" />
+          <mxGeometry x="640" y="617.3" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-150" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-137" target="_sygEks50G0lcDYLFpFC-151">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1039.9999999999998" y="-91572.04585000001" as="sourcePoint" />
-            <mxPoint x="739.9999999999998" y="-114064.95084999996" as="targetPoint" />
+            <mxPoint x="1039.9999999999998" y="-93902.98585000001" as="sourcePoint" />
+            <mxPoint x="739.9999999999998" y="-116395.89084999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-151" value="no Scrum, o mais importante sempre é feito primeiro. Dessa maneira, existe uma lista de prioridades conhecidas Backlog" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;treeFolding=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="640" y="3660" width="300" height="40" as="geometry" />
+          <mxGeometry x="640" y="706.3" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-152" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-139" target="_sygEks50G0lcDYLFpFC-153">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="949.9999999999998" y="-85050.01085" as="sourcePoint" />
-            <mxPoint x="739.9999999999998" y="-114064.95084999996" as="targetPoint" />
+            <mxPoint x="949.9999999999998" y="-87380.95085000001" as="sourcePoint" />
+            <mxPoint x="739.9999999999998" y="-116395.89084999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-153" value="a capacidade do negócio enxergar o status e o progresso em uma base diária, é uma das grandes vantagens de usar o Kanban" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;shape=partialRectangle;top=0;left=0;bottom=1;right=0;verticalAlign=middle;strokeWidth=2;fontStyle=0;treeFolding=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="640" y="3740" width="256" height="40" as="geometry" />
+          <mxGeometry x="644" y="804.3" width="256" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-154" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-20" target="_sygEks50G0lcDYLFpFC-155">
           <mxGeometry relative="1" as="geometry">
@@ -742,28 +742,28 @@
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-184" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-28" target="_sygEks50G0lcDYLFpFC-217">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2590" y="-41585.22369166665" as="sourcePoint" />
+            <mxPoint x="2590" y="-41745.22369166665" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-185" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-217" target="_sygEks50G0lcDYLFpFC-186">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2800" y="-37466.32912499998" as="sourcePoint" />
+            <mxPoint x="2800" y="-37626.32912499998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-186" value="CI&amp;nbsp; para desenvolvedores" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="810" y="1400.1992999999998" width="160" height="40" as="geometry" />
+          <mxGeometry x="810" y="1344.8153000000002" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-187" value="automação de testes para teste" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="810" y="1480.1992999999998" width="180" height="40" as="geometry" />
+          <mxGeometry x="810" y="1424.8153000000002" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-188" value="patches de segurança para a área de segurança" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="810" y="1560.1992999999998" width="270" height="40" as="geometry" />
+          <mxGeometry x="810" y="1504.8153000000002" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-189" value="provisionamento e automação para operações" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="810" y="1640.1992999999998" width="270" height="40" as="geometry" />
+          <mxGeometry x="810" y="1584.8153000000002" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-190" value="aprovações para os gerentes de lançamento" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="810" y="1720.1992999999998" width="270" height="40" as="geometry" />
+          <mxGeometry x="810" y="1664.8153000000002" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-191" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=2;size=20;indent=5;rounded=0;shadow=0;glass=0;sketch=1;fillColor=none;gradientColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=16;fontColor=#FFFFFF;align=left;strokeColor=#FFFFFF;container=1;collapsible=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
           <mxGeometry x="590" y="50.771999999999935" width="640" height="532.28" as="geometry" />
@@ -856,7 +856,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-217" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=16;fontColor=#FFFFFF;align=left;container=1;collapsible=0;strokeColor=none;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="590" y="1526.1942999999997" width="170" height="108.01" as="geometry" />
+          <mxGeometry x="590" y="1470.8103" width="170" height="108.01" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-218" value="automação e conexão de atividades de várias equipes" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;" vertex="1" parent="_sygEks50G0lcDYLFpFC-217">
           <mxGeometry x="5" y="9.711333333332732" width="160" height="28.80266666666667" as="geometry" />
@@ -865,7 +865,7 @@
           <mxGeometry x="5" y="46.74" width="105" height="48.54" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-220" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=6.21;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#FFFFFF;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=16;fontColor=#FFFFFF;align=left;container=1;collapsible=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="590" y="24.199299999999994" width="690" height="440" as="geometry" />
+          <mxGeometry x="590" y="33.21529999999996" width="690" height="440" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-221" value="" style="group" vertex="1" connectable="0" parent="_sygEks50G0lcDYLFpFC-220">
           <mxGeometry x="21" y="25" width="648" height="90" as="geometry" />
@@ -916,66 +916,66 @@
           <mxGeometry x="469" y="128.12" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-237" value="o que a pipeline DevOps precisa suportar" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="590" y="748.8992999999998" width="140" height="28.8" as="geometry" />
+          <mxGeometry x="590" y="719.6152999999999" width="140" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-238" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=11;fontColor=#006EAF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-237" target="_sygEks50G0lcDYLFpFC-239">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2800" y="-14774.876908333335" as="sourcePoint" />
+            <mxPoint x="2800" y="-14934.876908333335" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-239" value="fluxos de trabalho com versões e reutilizáveis, que permitam mudanças rápidas" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="780" y="508.7993" width="250" height="28.8" as="geometry" />
+          <mxGeometry x="780" y="513.2153" width="250" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-240" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=11;fontColor=#006EAF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-237" target="_sygEks50G0lcDYLFpFC-241">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2990" y="-14379.173875" as="sourcePoint" />
+            <mxPoint x="2990" y="-14539.173875" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-241" value="funções e permissões que restringem as etapas e ações das pipelines" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="780" y="586.7993" width="250" height="28.8" as="geometry" />
+          <mxGeometry x="780" y="582.0153" width="250" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-242" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=11;fontColor=#006EAF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-237" target="_sygEks50G0lcDYLFpFC-243">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2990" y="-14368.743875" as="sourcePoint" />
+            <mxPoint x="2990" y="-14528.743875" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-243" value="notificações configuráveis para cada etapa de cada pipeline" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="780" y="664.7993" width="250" height="28.8" as="geometry" />
+          <mxGeometry x="780" y="650.8153" width="250" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-244" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=11;fontColor=#006EAF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-237" target="_sygEks50G0lcDYLFpFC-245">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2990" y="-14341.443875" as="sourcePoint" />
+            <mxPoint x="2990" y="-14501.443875" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-245" value="abstrações de todas as informações sensíveis, como senhas, tokens, chaves, etc" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="780" y="742.7992999999999" width="250" height="28.8" as="geometry" />
+          <mxGeometry x="780" y="719.6152999999999" width="250" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-246" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=11;fontColor=#006EAF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-237" target="_sygEks50G0lcDYLFpFC-247">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2990" y="-14314.143875000002" as="sourcePoint" />
+            <mxPoint x="2990" y="-14474.143875000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-247" value="visibilidade em cada pipeline e estágio, incluindo logs, status e dados versionados" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="780" y="820.7992999999999" width="250" height="28.8" as="geometry" />
+          <mxGeometry x="780" y="788.4153" width="250" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-248" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=11;fontColor=#006EAF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-237" target="_sygEks50G0lcDYLFpFC-249">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2990" y="-14286.843875000002" as="sourcePoint" />
+            <mxPoint x="2990" y="-14446.843875000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-249" value="integrações com todos os sistemas, nuvem, repositórios de artefatos, ferramentas DevOps, etc" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="780" y="898.7992999999999" width="280" height="28.8" as="geometry" />
+          <mxGeometry x="780" y="857.2153" width="280" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-250" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=11;fontColor=#006EAF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-237" target="_sygEks50G0lcDYLFpFC-251">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2990" y="-14249.323875000002" as="sourcePoint" />
+            <mxPoint x="2990" y="-14409.323875000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-251" value="métricas e análises em todo as as condutas para ajudar a identificar os gargalos, pontos críticos ou evoluções" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="780" y="976.7992999999999" width="320" height="28.8" as="geometry" />
+          <mxGeometry x="780" y="926.0153" width="320" height="28.8" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-252" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=4.9;rounded=0;shadow=0;glass=0;sketch=1;strokeColor=#FFFFFF;strokeWidth=2;fillColor=none;gradientColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=21;fontColor=#FFFFFF;align=left;container=1;collapsible=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="590" y="1050.1992999999998" width="640" height="310" as="geometry" />
+          <mxGeometry x="590" y="994.8153" width="640" height="310" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-253" value="" style="group" vertex="1" connectable="0" parent="_sygEks50G0lcDYLFpFC-252">
           <mxGeometry x="15" y="14" width="610" height="280" as="geometry" />
@@ -1035,175 +1035,175 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-271" value="&lt;h1 style=&quot;font-size: 21px&quot;&gt;DevOps é inevitável&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Até 2018, a transição para o agile, DevOps e práticas de web-scale IT serão disruptivas para TI como a adoção do Lean foi para a manufatura durante os anos 80. (Gartner)&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;sketch=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="176.76052500000117" width="190" height="120" as="geometry" />
+          <mxGeometry x="550" y="22.644999999999925" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-272" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-31" target="_sygEks50G0lcDYLFpFC-273">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2590" y="-47287.33998" as="sourcePoint" />
+            <mxPoint x="2590" y="-48627.46148" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-273" value="adoção do DevOps no mundo" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="518.4785250000011" width="110" height="40" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-273" value="adoção do DevOps no mundo" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="550" y="182.64499999999987" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-274" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-273" target="_sygEks50G0lcDYLFpFC-275">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2760" y="-47090.33998" as="sourcePoint" />
+            <mxPoint x="2760" y="-47968.04573" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-275" value="&lt;h1 style=&quot;font-size: 21px&quot;&gt;RightScale Report 2017&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Análise da adoção de Cloud e DevOps no mundo:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;84% das grandes corporações&lt;/li&gt;&lt;li&gt;72% das pequenas e médias empresas&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;sketch=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="346.7605250000011" width="210" height="104.1" as="geometry" />
+          <mxGeometry x="710" y="190" width="210" height="104.1" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-276" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-273" target="_sygEks50G0lcDYLFpFC-277">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2920" y="-46723.22497999999" as="sourcePoint" />
+            <mxPoint x="2920" y="-47600.93072999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-277" value="&lt;h1 style=&quot;font-size: 21px&quot;&gt;State of Devops Report (Puppet)&lt;br&gt;&lt;/h1&gt;Empresas que adotam DevOps, superam de longe aquelas que não empregam as suas práticas. " style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;sketch=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="636.0965250000011" width="210" height="104.1" as="geometry" />
+          <mxGeometry x="710" y="479.336" width="210" height="104.1" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-278" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-277" target="_sygEks50G0lcDYLFpFC-279">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2920" y="-46700.109979999994" as="sourcePoint" />
+            <mxPoint x="2920" y="-47577.815729999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-279" value="&lt;h1 style=&quot;font-size: 21px&quot;&gt;Automação&lt;br&gt;&lt;/h1&gt;&lt;div&gt;É um diferencial chave. Organizações de TI de alto desempenho, fazem menos trabalhos manuais e automatizam significativamente seus processos de entrega de software. Do gerenciamento de configurações aos testes, até implantações e aprovação de alterações.&lt;/div&gt;&lt;ul&gt;&lt;li&gt;-21% de tempo perdido em retrabalho e trabalho não planejado&lt;/li&gt;&lt;li&gt;+44% mais tempo gasto em novos trabalhos&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;sketch=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="970" y="467.05152500000105" width="320" height="155.81" as="geometry" />
+          <mxGeometry x="970" y="310.291" width="320" height="155.81" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-280" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-277" target="_sygEks50G0lcDYLFpFC-281">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3180" y="-46604.615379999996" as="sourcePoint" />
+            <mxPoint x="3180" y="-47482.32113" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-281" value="&lt;h1 style=&quot;font-size: 21px&quot;&gt;Trabalho em Equipe&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Ênfase em ter equipes e indivíduos trabalhando juntos, de forma eficaz, é melhor para os negócios que engenheiros com pensamentos isolados.&amp;nbsp; &lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;sketch=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="970" y="672.861525000001" width="320" height="84.84" as="geometry" />
+          <mxGeometry x="970" y="516.101" width="320" height="84.84" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-282" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-277" target="_sygEks50G0lcDYLFpFC-283">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3180" y="-46296.034179999995" as="sourcePoint" />
+            <mxPoint x="3180" y="-47173.739929999996" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-283" value="&lt;h1 style=&quot;font-size: 21px&quot;&gt;Desempenho&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Organizações DevOps de alto desempenho implementam código com mais frequência, apresentam menos falhas, recuperam-se das falhas mais rapidamente e contam com funcionários mais felizes. A tendência é concentrar-se nos resultados, ao invés de pessoas e processos.&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;sketch=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="970" y="807.7015250000011" width="320" height="101.54" as="geometry" />
+          <mxGeometry x="970" y="650.941" width="320" height="101.54" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-284" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-31" target="_sygEks50G0lcDYLFpFC-285">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2760" y="-46299.66946571428" as="sourcePoint" />
+            <mxPoint x="2760" y="-47639.79096571428" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-285" value="mercado aquecido" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="1037.241525000001" width="110" height="40" as="geometry" />
+          <mxGeometry x="550" y="263.04499999999985" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-286" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-285" target="_sygEks50G0lcDYLFpFC-287">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2760" y="-45900.838294285706" as="sourcePoint" />
+            <mxPoint x="2760" y="-47240.95979428571" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-287" value="principais 10 cargos de TI para 2018 (olhar digital)" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="1037.7415250000008" width="170" height="40" as="geometry" />
+          <mxGeometry x="710" y="263.54499999999985" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-288" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-33" target="_sygEks50G0lcDYLFpFC-289">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2920" y="-40891.55713999999" as="sourcePoint" />
+            <mxPoint x="2920" y="-42299.22663999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-289" value="&lt;h1 style=&quot;font-size: 21px&quot;&gt;Certificações&lt;br&gt;&lt;/h1&gt;&quot;A premissa de qualquer certificação é que ela ajude um gerente de contratações a organizar a pilha de currículos.&quot; (Randy Russel - Red Hat)" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;sketch=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="1127.7415250000013" width="210" height="104.1" as="geometry" />
+          <mxGeometry x="550" y="201.562" width="210" height="104.1" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-290" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-33" target="_sygEks50G0lcDYLFpFC-291">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2920" y="-35807.43101071429" as="sourcePoint" />
+            <mxPoint x="2920" y="-37215.10051071429" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-291" value="o que esperar de uma certificação?" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="1307.8415250000012" width="200" height="40" as="geometry" />
+          <mxGeometry x="550" y="381.66200000000003" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-292" value="profissionais de TI certificados tem 53% mais chances de conseguir emprego (fonte: IDC)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="800" y="1276.3415250000012" width="200" height="20" as="geometry" />
+          <mxGeometry x="800" y="350.16200000000003" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-293" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-291" target="_sygEks50G0lcDYLFpFC-292">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="880" y="-34481.766299999996" as="sourcePoint" />
-            <mxPoint x="930" y="-34272.266299999996" as="targetPoint" />
+            <mxPoint x="880" y="-35889.4358" as="sourcePoint" />
+            <mxPoint x="930" y="-35679.9358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-294" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-291" target="_sygEks50G0lcDYLFpFC-295">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3010" y="-32377.001674999996" as="sourcePoint" />
-            <mxPoint x="930" y="-34272.266299999996" as="targetPoint" />
+            <mxPoint x="3010" y="-33784.671174999996" as="sourcePoint" />
+            <mxPoint x="930" y="-35679.9358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-295" value="profissionais certificados chegam a ganhar salários 10 a 100% superiores à média que o mercado para especialistas sem certificação na mesma função" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="800" y="1352.3415250000016" width="210" height="20" as="geometry" />
+          <mxGeometry x="800" y="426.16200000000003" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-296" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-33" target="_sygEks50G0lcDYLFpFC-297">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2760" y="-32443.251674999996" as="sourcePoint" />
+            <mxPoint x="2760" y="-33850.921174999996" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-297" value="certificações" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="550" y="1549.441525000001" width="80" height="40" as="geometry" />
+          <mxGeometry x="550" y="623.2620000000001" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-298" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-297" target="_sygEks50G0lcDYLFpFC-299">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3010" y="-30789.87705" as="sourcePoint" />
-            <mxPoint x="930" y="-34272.266299999996" as="targetPoint" />
+            <mxPoint x="3010" y="-32197.54655" as="sourcePoint" />
+            <mxPoint x="930" y="-35679.9358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-299" value="it.certs_" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="680" y="1409.441525000001" width="60" height="20" as="geometry" />
+          <mxGeometry x="680" y="483.26200000000006" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-300" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-297" target="_sygEks50G0lcDYLFpFC-301">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2890" y="-30700.887049999998" as="sourcePoint" />
-            <mxPoint x="930" y="-34272.266299999996" as="targetPoint" />
+            <mxPoint x="2890" y="-32108.556549999998" as="sourcePoint" />
+            <mxPoint x="930" y="-35679.9358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-301" value="exin" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="680" y="1469.441525000001" width="30" height="20" as="geometry" />
+          <mxGeometry x="680" y="543.2620000000001" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-302" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-297" target="_sygEks50G0lcDYLFpFC-303">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2890" y="-30677.637049999998" as="sourcePoint" />
-            <mxPoint x="930" y="-34272.266299999996" as="targetPoint" />
+            <mxPoint x="2890" y="-32085.306549999998" as="sourcePoint" />
+            <mxPoint x="930" y="-35679.9358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-303" value="LPI - linux professional institute" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="680" y="1529.441525000001" width="140" height="20" as="geometry" />
+          <mxGeometry x="680" y="603.2620000000001" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-304" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-297" target="_sygEks50G0lcDYLFpFC-305">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2890" y="-30645.47455" as="sourcePoint" />
-            <mxPoint x="930" y="-34272.266299999996" as="targetPoint" />
+            <mxPoint x="2890" y="-32053.14405" as="sourcePoint" />
+            <mxPoint x="930" y="-35679.9358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-305" value="AWS" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="680" y="1589.441525000001" width="30" height="20" as="geometry" />
+          <mxGeometry x="680" y="663.2620000000001" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-306" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-297" target="_sygEks50G0lcDYLFpFC-307">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2890" y="-30631.137049999998" as="sourcePoint" />
-            <mxPoint x="930" y="-34272.266299999996" as="targetPoint" />
+            <mxPoint x="2890" y="-32038.806549999998" as="sourcePoint" />
+            <mxPoint x="930" y="-35679.9358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-307" value="Red Hat" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="680" y="1649.441525000001" width="40" height="20" as="geometry" />
+          <mxGeometry x="680" y="723.2620000000001" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-308" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;curved=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-297" target="_sygEks50G0lcDYLFpFC-309">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2890" y="-30604.39955" as="sourcePoint" />
-            <mxPoint x="930" y="-34272.266299999996" as="targetPoint" />
+            <mxPoint x="2890" y="-32012.06905" as="sourcePoint" />
+            <mxPoint x="930" y="-35679.9358" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-309" value="Microsoft (Azure)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="680" y="1709.441525000001" width="80" height="20" as="geometry" />
+          <mxGeometry x="680" y="783.2620000000001" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-310" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;rounded=1;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-287" target="_sygEks50G0lcDYLFpFC-311">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3140" y="-32747.851849999995" as="sourcePoint" />
+            <mxPoint x="3140" y="-34087.97334999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-311" value="&lt;ol&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;cientista/engenheiro de dados&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;DevOps&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;especialista em cloud&lt;/font&gt;&lt;/b&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;segurança da informação&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;engenheiro de software&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;analista de negócios&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;desenvolvedor fullstack&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;CTO (chief technology officer)&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;analista de suporte bilíngue&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;PMO (gestão de projetos)&lt;br&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="930" y="1013.4815250000008" width="210" height="87.52" as="geometry" />
+          <mxGeometry x="930" y="239.28499999999985" width="210" height="87.52" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-312" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-36" target="_sygEks50G0lcDYLFpFC-313">
           <mxGeometry relative="1" as="geometry">
@@ -1266,75 +1266,75 @@
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-327" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-39" target="_sygEks50G0lcDYLFpFC-328">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2840" y="-31644.695724999994" as="sourcePoint" />
+            <mxPoint x="2840" y="-31804.695724999994" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-328" value="categorias de ferramentas" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="600" y="696.6750000000001" width="160" height="40" as="geometry" />
+          <mxGeometry x="600" y="692.85" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-329" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-328" target="_sygEks50G0lcDYLFpFC-330">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3210" y="-28449.522424999996" as="sourcePoint" />
+            <mxPoint x="3210" y="-28609.522424999996" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-330" value="&lt;div&gt;Em linhas gerais, o ciclo do DevOps é composto pelas seguintes fases:&lt;/div&gt;&lt;ul&gt;&lt;li&gt;planejamento&lt;/li&gt;&lt;li&gt;código&lt;/li&gt;&lt;li&gt;construção&lt;/li&gt;&lt;li&gt;testes&lt;/li&gt;&lt;li&gt;deploy&lt;/li&gt;&lt;li&gt;operação&lt;/li&gt;&lt;li&gt;monitoração&lt;/li&gt;&lt;/ul&gt;" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=bottom;strokeWidth=2;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="810" y="557.6500000000001" width="290" height="200.35" as="geometry" />
+          <mxGeometry x="810" y="550" width="290" height="200.35" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-331" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-328" target="_sygEks50G0lcDYLFpFC-332">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3080" y="-25346.287874999995" as="sourcePoint" />
+            <mxPoint x="3080" y="-25506.287874999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-332" value="Para cada etapa, recursos e funcionalidades específicas são demandados, por isso é importante combinar e encaixar as ferramentas mais apropriadas a cada momento do processo." style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=bottom;strokeWidth=2;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="810" y="798.0000000000001" width="290" height="85.35" as="geometry" />
+          <mxGeometry x="810" y="790.35" width="290" height="85.35" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-333" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-39" target="_sygEks50G0lcDYLFpFC-334">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2870" y="-23779.741849999995" as="sourcePoint" />
+            <mxPoint x="2870" y="-23939.741849999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-334" value="premissas para escolher ferramentas" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="600" y="948.5300000000002" width="130" height="40" as="geometry" />
+          <mxGeometry x="600" y="940.3800000000001" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-335" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-334" target="_sygEks50G0lcDYLFpFC-336">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3080" y="-22256.069699999996" as="sourcePoint" />
+            <mxPoint x="3080" y="-22416.069699999996" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-336" value="conhecimento do time sobre as ferramentas" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=bottom;strokeWidth=2;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="780" y="923.3500000000001" width="290" height="24.68" as="geometry" />
+          <mxGeometry x="780" y="915.7" width="290" height="24.68" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-337" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-334" target="_sygEks50G0lcDYLFpFC-338">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3050" y="-18947.687774999995" as="sourcePoint" />
+            <mxPoint x="3050" y="-19107.687774999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-338" value="tipo de integração que ela oferece para formar o pipeline" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=bottom;strokeWidth=2;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="780" y="988.0300000000002" width="320" height="24.68" as="geometry" />
+          <mxGeometry x="780" y="980.3800000000001" width="320" height="24.68" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-339" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-39" target="_sygEks50G0lcDYLFpFC-340">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2870" y="-19048.551774999996" as="sourcePoint" />
+            <mxPoint x="2870" y="-19208.551774999996" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-340" value="sobre ferramentas" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="600" y="1150.6250000000002" width="120" height="28.4" as="geometry" />
+          <mxGeometry x="600" y="1140.685" width="120" height="28.4" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-341" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-340" target="_sygEks50G0lcDYLFpFC-342">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3050" y="-17360.772774999998" as="sourcePoint" />
+            <mxPoint x="3050" y="-17520.772774999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-342" value="Um dos alicerces do DevOPs é a automação dos processos de mudança, configuração e deploy. Isso só é possível graças ao uso de ferramentas que oferecem funcionalidades úteis em cada fase do fluxo." style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=bottom;strokeWidth=2;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="770" y="1057.2900000000002" width="320" height="75.42" as="geometry" />
+          <mxGeometry x="770" y="1045.06" width="320" height="75.42" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-343" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-340" target="_sygEks50G0lcDYLFpFC-344">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3040" y="-15669.730375" as="sourcePoint" />
+            <mxPoint x="3040" y="-15829.730375" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-344" value="A ideia é que as ferramentas orquestrem todo o ciclo de processos, também controlem instâncias em tempo real, facilitando a administração do ambiente, seja físico ou virtual, desde a automação do desenvolvimento até a infraestrutura." style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=bottom;strokeWidth=2;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="770" y="1172.71" width="320" height="104.23" as="geometry" />
+          <mxGeometry x="770" y="1160.48" width="320" height="104.23" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-345" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;sketch=1;fillColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=12;fontColor=#FFFFFF;align=left;strokeColor=#FFFFFF;container=1;collapsible=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
           <mxGeometry x="600" y="20" width="890" height="490" as="geometry" />
@@ -1425,54 +1425,54 @@
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-374" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-39" target="_sygEks50G0lcDYLFpFC-375">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2870" y="-15004.679525" as="sourcePoint" />
+            <mxPoint x="2870" y="-15164.679525" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-375" value="&lt;div&gt;tipos comuns de testes&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="600" y="1525.2400000000007" width="140" height="28.4" as="geometry" />
+          <mxGeometry x="600" y="1474.0900000000001" width="140" height="28.4" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-376" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-375" target="_sygEks50G0lcDYLFpFC-377">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2870" y="-14055.2677" as="sourcePoint" />
+            <mxPoint x="2870" y="-14215.2677" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-377" value="&lt;div&gt;&lt;b&gt;Teste unitário:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;avalia pequenas unidades do software, códigos, sub-rotinas, etc.&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="790" y="1317.6500000000005" width="350" height="40.29" as="geometry" />
+          <mxGeometry x="790" y="1304.71" width="350" height="40.29" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-378" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-375" target="_sygEks50G0lcDYLFpFC-379">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3060" y="-12490.901374999998" as="sourcePoint" />
+            <mxPoint x="3060" y="-12650.901374999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-379" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;Teste de integração:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;garante que um ou mais componentes funcionam. Pode ser entendido como um conjunto de testes unitários.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="790" y="1418.9400000000007" width="580" height="40" as="geometry" />
+          <mxGeometry x="790" y="1385" width="580" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-380" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-375" target="_sygEks50G0lcDYLFpFC-381">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3060" y="-11468.778549999999" as="sourcePoint" />
+            <mxPoint x="3060" y="-11628.778549999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-381" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;Teste de funcionalidade:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;validar as funcionalidades, requerimentos e regras de negócio que o software deve possuir.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="790" y="1517.650000000001" width="490" height="42.29" as="geometry" />
+          <mxGeometry x="790" y="1465" width="490" height="42.29" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-382" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-375" target="_sygEks50G0lcDYLFpFC-383">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3060" y="-10427.340949999998" as="sourcePoint" />
+            <mxPoint x="3060" y="-10587.340949999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-383" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;Teste de desempenho:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;verifica o tempo de resposta e utilização de recursos do software.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="790" y="1618.6500000000012" width="360" height="42.29" as="geometry" />
+          <mxGeometry x="790" y="1547.29" width="360" height="42.29" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-384" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-375" target="_sygEks50G0lcDYLFpFC-385">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3060" y="-9346.109675" as="sourcePoint" />
+            <mxPoint x="3060" y="-9506.109675" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-385" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;Teste de segurança:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;verifica se o software em questão não apresenta vulnerabilidades.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="790" y="1719.6500000000012" width="360" height="42.29" as="geometry" />
+          <mxGeometry x="790" y="1629.58" width="360" height="42.29" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-386" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;sketch=1;fillColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=12;fontColor=#FFFFFF;align=left;strokeColor=#FFFFFF;container=1;collapsible=0;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="570" y="884.0299999999999" width="890" height="630" as="geometry" />
+          <mxGeometry x="570" y="276.29999999999995" width="890" height="630" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-387" value="&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;laboratório DevOps&amp;nbsp; (pipeline)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;strokeWidth=2;fillColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=11;fontColor=#FFFFFF;align=center;" vertex="1" parent="_sygEks50G0lcDYLFpFC-386">
           <mxGeometry x="15" y="16.5" width="860" height="30" as="geometry" />
@@ -1548,8 +1548,8 @@
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-411" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.516;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=11;fontColor=#006EAF;strokeColor=#FFFFFF;strokeWidth=1;sketch=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-43" target="_sygEks50G0lcDYLFpFC-386">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="-821.9166249999998" as="sourcePoint" />
-            <mxPoint x="599.1100000000001" y="-15485.0124" as="targetPoint" />
+            <mxPoint x="480" y="-1148.994" as="sourcePoint" />
+            <mxPoint x="599.1100000000001" y="-15812.089775" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-412" style="edgeStyle=none;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#FFFFFF;fontColor=#FFFFFF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-433" target="_sygEks50G0lcDYLFpFC-413">
@@ -1622,97 +1622,97 @@
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-432" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-41" target="_sygEks50G0lcDYLFpFC-433">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2850" y="-9081.1735" as="sourcePoint" />
+            <mxPoint x="2850" y="-9377.966875000002" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-433" value="fluxo do laboratório" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;treeFolding=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="560" y="73.29" width="120" height="33.42" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-433" value="fluxo do laboratório" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="560" y="265.73799999999994" width="120" height="33.42" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-434" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-41" target="_sygEks50G0lcDYLFpFC-435">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2800" y="-4948.207149999998" as="sourcePoint" />
+            <mxPoint x="2800" y="-5245.000524999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_sygEks50G0lcDYLFpFC-435" value="ferramentas" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;treeFolding=1;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="560" y="518.3425" width="100" height="33.42" as="geometry" />
+        <mxCell id="_sygEks50G0lcDYLFpFC-435" value="ferramentas" style="whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=1;verticalAlign=bottom;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;treeFolding=1;" vertex="1" visible="0" collapsed="1" parent="_sygEks50G0lcDYLFpFC-1">
+          <mxGeometry x="560" y="339.15799999999996" width="100" height="33.42" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-436" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-435" target="_sygEks50G0lcDYLFpFC-438">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2800" y="-3569.4099499999993" as="sourcePoint" />
+            <mxPoint x="2800" y="-3780.1675749999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-437" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-438" target="_sygEks50G0lcDYLFpFC-446">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-438" value="Github" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;treeFolding=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="242.52000000000004" width="50" height="33.42" as="geometry" />
+          <mxGeometry x="710" y="158.22887499999996" width="50" height="33.42" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-439" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-435" target="_sygEks50G0lcDYLFpFC-440">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2950" y="-3175.742199999998" as="sourcePoint" />
+            <mxPoint x="2950" y="-3386.499824999998" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-440" value="Travis-CI" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;treeFolding=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="380.61" width="70" height="33.42" as="geometry" />
+          <mxGeometry x="710" y="296.31887499999993" width="70" height="33.42" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-441" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-435" target="_sygEks50G0lcDYLFpFC-442">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2950" y="-3152.7984499999993" as="sourcePoint" />
+            <mxPoint x="2950" y="-3363.5560749999995" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-442" value="Heroku" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;treeFolding=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="531.38" width="50" height="33.42" as="geometry" />
+          <mxGeometry x="710" y="447.0888749999999" width="50" height="33.42" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-443" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-435" target="_sygEks50G0lcDYLFpFC-445">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2950" y="-3129.854699999999" as="sourcePoint" />
+            <mxPoint x="2950" y="-3340.612324999999" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-444" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-440" target="_sygEks50G0lcDYLFpFC-447">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-445" value="CodeAnywhere" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;treeFolding=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="682.15" width="90" height="33.42" as="geometry" />
+          <mxGeometry x="710" y="597.8588749999999" width="90" height="33.42" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-446" value="&lt;div&gt;&lt;b&gt;Git&lt;/b&gt;&lt;/div&gt;&lt;div&gt;É um versionador, ou seja, um controlador de versão. Através dele, conseguimos desenvolver projetos em que mais de uma pessoa é capaz de trabalhar simultaneamente, sem risco de que algum arquivo seja sobreescrito ou modificado.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fillColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=12;fontColor=#FFFFFF;align=left;spacing=4;strokeWidth=2;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="810" y="200.00000000000006" width="170" height="118.46" as="geometry" />
+          <mxGeometry x="810" y="115.70887499999998" width="170" height="118.46" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-447" value="&lt;div&gt;Compreende uma aplicação de integração contínua, totalmente gratuito para projetos de código aberto hospedados no GitHub.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fillColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=12;fontColor=#FFFFFF;align=left;spacing=4;strokeWidth=2;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="830" y="358.46000000000004" width="150" height="77.72" as="geometry" />
+          <mxGeometry x="830" y="274.16887499999996" width="150" height="77.72" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-448" value="&lt;div&gt;É uma IDE que funciona baseada na nuvem. Pode ser acessada por qualquer dispositivo conectado à rede.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fillColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=12;fontColor=#FFFFFF;align=left;spacing=4;strokeWidth=2;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="850" y="660" width="150" height="77.72" as="geometry" />
+          <mxGeometry x="850" y="575.7088749999999" width="150" height="77.72" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-449" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-445" target="_sygEks50G0lcDYLFpFC-448">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="-1179.7611000000104" as="sourcePoint" />
-            <mxPoint x="830" y="-1179.7611000000104" as="targetPoint" />
+            <mxPoint x="780" y="-1390.5187250000104" as="sourcePoint" />
+            <mxPoint x="830" y="-1390.5187250000104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-450" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-442" target="_sygEks50G0lcDYLFpFC-451">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3160" y="-1060.6988500000102" as="sourcePoint" />
+            <mxPoint x="3160" y="-1271.4564750000104" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-451" value="Designado como PaaS (Plataform as a Service), suporta várias linguagens de programação (Java, PHP e Python). Emprega uma unidade de máquina vítual chamada &quot;Dyni&quot;, semelhante a containers, permite que o desenvolvedor execute a sua aplicação em um ambiente seguro." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fillColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=12;fontColor=#FFFFFF;align=left;spacing=4;strokeWidth=2;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="810" y="476.18" width="150" height="143.82" as="geometry" />
+          <mxGeometry x="810" y="391.8888749999999" width="150" height="143.82" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-452" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=horizontal;html=1;sketch=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#006EAF;curved=1;strokeWidth=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-435" target="_sygEks50G0lcDYLFpFC-453">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3040" y="32.682249999999016" as="sourcePoint" />
+            <mxPoint x="3040" y="-178.0753750000011" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-453" value="unittest" style="whiteSpace=wrap;html=1;sketch=1;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fillStyle=auto;fillColor=none;fontColor=#FFFFFF;fontSize=16;fontStyle=0;verticalAlign=middle;strokeWidth=2;shape=partialRectangle;top=0;left=0;bottom=1;right=0;treeFolding=0;strokeColor=none;align=left;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="710" y="794.165" width="50" height="33.42" as="geometry" />
+          <mxGeometry x="710" y="709.8738749999999" width="50" height="33.42" as="geometry" />
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-454" style="edgeStyle=orthogonalEdgeStyle;curved=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;strokeColor=#FFFFFF;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontColor=#FFFFFF;" edge="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1" source="_sygEks50G0lcDYLFpFC-453" target="_sygEks50G0lcDYLFpFC-455">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3180" y="219.48675000000048" as="sourcePoint" />
-            <mxPoint x="830" y="-1179.7611000000104" as="targetPoint" />
+            <mxPoint x="3180" y="8.729125000000394" as="sourcePoint" />
+            <mxPoint x="830" y="-1390.5187250000104" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_sygEks50G0lcDYLFpFC-455" value="O unittest segue a estrutura de estilo xUnit. Contitui um módulo padrão que integra o python a partir da versão 2.1." style="rounded=0;whiteSpace=wrap;html=1;sketch=1;strokeColor=#FFFFFF;fillColor=none;fontFamily=Caveat;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DCaveat;fontSize=12;fontColor=#FFFFFF;align=left;spacing=4;strokeWidth=2;" vertex="1" visible="0" parent="_sygEks50G0lcDYLFpFC-1">
-          <mxGeometry x="810" y="777.7199999999999" width="150" height="66.31" as="geometry" />
+          <mxGeometry x="810" y="693.428875" width="150" height="66.31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
